@@ -6,6 +6,6 @@
 
 package com.rivatech.footballfrenzy.model;
 
-public class UpcomingMatches extends Matches {
+public class LiveMatches extends Matches {
 
 }
