@@ -24,4 +24,5 @@ public class HomeScreenController {
         upcomingMatchesList.add(upcomingMatches);
         return upcomingMatchesList;
     }
+
 }
